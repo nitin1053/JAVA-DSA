@@ -1,0 +1,38 @@
+ inheritance
+
+ parents--> chilren
+ in oops  inheritance child class has all the acces of the parent class
+ child class is inheriting properties from parent class
+
+ class child extends base(parent)
+
+ child class is something which has a some properties from  base class
+ and some of its own properties
+
+Types of inheritance
+single inheritance -one class extends anoher class
+
+multi level inheritance-when one class extending more than one classes
+not allowed in java because of the confusion of the same property
+but we can do this by using interface
+
+4.hierarchial inheritace-
+
+5. hybrid inheritance -combine of both the inheritace (not allowed in java due )
+
+Easy
+
+Polymorphosm(many ways to representation )
+Types
+1. compile time polymorphism/static polymorphism
+method overloading
+
+2.Runtime polymorphism achieved by method overiding
+
+Parent obj=new child
+here which method will be called on this is known as upcasting
+
+Encapsulation-wrapping up the data members and method in a class
+
+abstartion--hiding the unnecessay thing andd showing only the required things
+
